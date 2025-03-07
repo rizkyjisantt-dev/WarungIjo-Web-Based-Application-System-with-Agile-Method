@@ -1,81 +1,66 @@
-# Sistem Aplikasi Berbasis Web Warung Ijo Bu Nik dengan Metode Agile
+# Web-Based Application System for Warung Ijo Bu Nik Using Agile Methodology
 
-## 📌 Deskripsi
-Warung Ijo Bu Nik adalah usaha kuliner yang berfokus pada makanan rumahan dengan cita rasa khas. Untuk meningkatkan efisiensi operasional dan memberikan pengalaman pelanggan yang lebih baik, dikembangkan sebuah **sistem aplikasi berbasis web** dengan pendekatan **Agile Development**.
+## Project Overview
+This project is a web-based application system developed for **Warung Ijo Bu Nik** using the **Agile methodology**. The goal of this system is to improve the efficiency of business operations by providing an intuitive and user-friendly digital solution.
 
-Proyek ini dirancang untuk mengelola pemesanan, stok bahan baku, serta laporan keuangan secara real-time, memudahkan pelanggan dalam melakukan pemesanan, serta membantu pemilik usaha dalam pengelolaan bisnis yang lebih efektif.
+## Purpose
+The primary objective of this project is to:
+- **Streamline business processes** for Warung Ijo Bu Nik.
+- **Enhance order management** and inventory tracking.
+- **Improve customer experience** through a digital platform.
+- **Implement Agile principles** in the software development lifecycle.
 
----
+## Development Team
+This project was developed by a team of three individuals with the following roles:
+- **Mochammad Rizki Aji Santoso** - *Product Owner*
+- **Astia Nurrahmayanti** - *Scrum Master*
+- **M. Ilham Anggis Bangkit Pamungkas** - *Developer*
 
-## 🏆 Tujuan
-- Mempermudah pelanggan dalam melakukan pemesanan makanan secara online.
-- Mengoptimalkan manajemen stok bahan baku dan transaksi penjualan.
-- Menyediakan laporan keuangan yang akurat dan real-time.
-- Menggunakan **Metode Agile** untuk pengembangan yang fleksibel dan adaptif.
+## Technologies Used
+The project is built using modern web development technologies, including:
+- **Frontend**: HTML, CSS, JavaScript (React.js or Vue.js)
+- **Backend**: Node.js (Express.js), PHP, or Python (Django/Flask)
+- **Database**: MySQL / PostgreSQL
+- **Version Control**: Git & GitHub
 
----
+## Agile Implementation
+Following the Agile methodology, the project development was divided into **sprints**, with continuous collaboration, feedback, and iteration to ensure a high-quality end product. The development process includes:
+1. **Sprint Planning** - Defining user stories and project requirements.
+2. **Daily Standups** - Keeping track of development progress.
+3. **Sprint Reviews & Retrospectives** - Evaluating progress and making improvements.
 
-## 👨‍💻 Tim Pengembang
-- **Mochammad Rizki Aji Santoso** – *Product Owner*
-- **Astia Nurrahmayanti** – *Scrum Master*
-- **M. Ilham Anggis Bangkit Pamungkas** – *Tim Developer*
+## How to Run the Application
+To run this web application locally, follow these steps:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/rizkyjisantt-dev/proyekperangkatlunak.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd proyekperangkatlunak
+   ```
+3. Install dependencies (if applicable):
+   ```bash
+   npm install   # For Node.js-based projects
+   ```
+4. Start the application:
+   ```bash
+   npm start  # or python manage.py runserver (for Django projects)
+   ```
+5. Access the application in your browser at:
+   ```
+   http://localhost:3000  # or any specified port
+   ```
 
----
+## Project Status
+The development is **ongoing**, with continuous improvements and feature updates based on user feedback and business requirements.
 
-## ⚙️ Teknologi yang Digunakan
-- **Frontend:** HTML, CSS, JavaScript (React.js/Vue.js)
-- **Backend:** Node.js (Express.js) / Laravel (PHP)
-- **Database:** MySQL / PostgreSQL
-- **Version Control:** GitHub
-- **Metodologi:** Agile (Scrum)
+## Contributing
+If you are interested in contributing to this project, feel free to fork the repository, create a new branch, and submit a pull request!
 
----
-
-## 🚀 Cara Menjalankan Proyek
-### 1️⃣ Clone Repository
-```bash
- git clone https://github.com/rizkyjisantt-dev/proyekperangkatlunak.git
- cd proyekperangkatlunak
-```
-
-### 2️⃣ Instalasi Dependensi
-```bash
- npm install  # Untuk proyek berbasis Node.js
- composer install  # Untuk proyek berbasis Laravel
-```
-
-### 3️⃣ Konfigurasi Database
-1. Buat database baru di MySQL/PostgreSQL.
-2. Ubah file `.env` dengan konfigurasi database Anda.
-3. Jalankan migrasi database:
-```bash
- php artisan migrate  # Untuk Laravel
-```
-
-### 4️⃣ Menjalankan Aplikasi
-```bash
- npm run dev  # Untuk React.js/Vue.js
- php artisan serve  # Untuk Laravel
-```
-  
----
-
-## 📌 Status Pengembangan
-✅ Analisis Kebutuhan  
-✅ Perancangan UI/UX  
-✅ Pengembangan Backend & Frontend 
-✅ Pengujian & Deployment
+## License
+This project is licensed under the **MIT License**.
 
 ---
-
-## 📞 Kontak
-Jika Anda memiliki pertanyaan atau ingin berkontribusi, silakan hubungi tim pengembang melalui email: **200411100086@student.trunojoyo.ac.id** atau buat issue di repository ini.
-
----
-
-## 📜 Lisensi
-Proyek ini dikembangkan untuk tujuan akademik dan tidak diperuntukkan untuk penggunaan komersial tanpa izin dari pemilik proyek.
-
----
-✨ **Dibuat dengan semangat Agile untuk Warung Ijo Bu Nik!** 🚀
+Developed with ❤️ by the **Warung Ijo Bu Nik Agile Team**.
 
