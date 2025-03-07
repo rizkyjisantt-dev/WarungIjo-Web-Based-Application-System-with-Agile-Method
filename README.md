@@ -57,14 +57,14 @@ Proyek ini dirancang untuk mengelola pemesanan, stok bahan baku, serta laporan k
  npm run dev  # Untuk React.js/Vue.js
  php artisan serve  # Untuk Laravel
 ```
-
+  
 ---
 
 ## 📌 Status Pengembangan
 ✅ Analisis Kebutuhan  
 ✅ Perancangan UI/UX  
 ✅ Pengembangan Backend & Frontend 
-✅ Pengujian & Deployment  
+✅ Pengujian & Deployment
 
 ---
 
